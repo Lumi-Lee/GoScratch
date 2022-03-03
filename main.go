@@ -13,4 +13,5 @@ func main() {
 	fmt.Printf("%v\n", target)
 	fmt.Printf("asdf")
 	fmt.Printf("asdf2")
+	fmt.Println("asdf")
 }
