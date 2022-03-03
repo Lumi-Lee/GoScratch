@@ -14,4 +14,6 @@ func main() {
 	fmt.Printf("asdf")
 	fmt.Printf("asdf2")
 	fmt.Println("asdf")
+
+	fmt.Println("a1")
 }
