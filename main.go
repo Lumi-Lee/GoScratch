@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	fmt.Printf("asdf1")
 	target := big.NewInt(1)
 	fmt.Printf("%v\n", target)
 	target.Lsh(target, uint(256-24))
